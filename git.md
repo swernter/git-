@@ -31,3 +31,5 @@
 - git diff origin/main 远程仓库名和分支名,可以看见远处仓库和分支的区别
 - git pull origin/main取回加合并,把远程仓库内容直接整合到工作区,这时候用git log 可以看到所有版本历史
 - git push -u origin dev 更新内容,-u是建立绑定,推送到dev分支里
+- git remote add origin 链接 ,把库提交到远程仓库
+-gugugaga
